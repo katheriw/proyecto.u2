@@ -1,4 +1,5 @@
-*ENCRYPTED LOVE*: Encriptador Para Parejas
+*ENCRYPTED LOVE*: Encriptador Para Parejas.
+
 Problemática: Las personas hoy en día tienen distintas necesidades, y una de ellas, aunque parezca insignificante, es la de mantener en secreto lo que hacen o dicen. Con el tiempo, esto se ha vuelto algo cotidiano, y cada vez se buscan más formas de mantener nuestras vidas en (privado) . Esta necesidad se intensifica cuando contamos con una pareja y queremos enviar mensajes sin que otras personas ajenas a nosotros se enteren de nuestras conversaciones.
 
 Solución: Debido a esto, al darnos cuenta de este problema que afecta a millones de personas en todo el mundo, nuestra solución fue crear una página web para que las parejas interesadas puedan escribir y recibir mensajes sin ningún temor a que otra persona se entere, ofreciendo así a los usuarios una comunicación segura, protegiendo sus secretos y manteniendo la privacidad de sus conversaciones.
