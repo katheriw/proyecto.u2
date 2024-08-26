@@ -1,43 +1,33 @@
-@import url("https://fonts.googleapis.com/css2?family=Delius&family=Sofia&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+AT:ital,wght@0,100..400;1,100..400&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
 
-body {
-    position: relative;
-    margin: 0;
-  }
-  .sect {
-    width: 100%;
-    min-height: 500px;
-  }
+body{
+  background-image: url(./../media/fondo2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+  
 
 .inicio {
-    border: 4px solid hsl(352, 94%, 49%);
+    border: 4px solid hsl(353, 87%, 34%);
     width: 540px;
     padding-bottom: 30px;
     margin: 150px auto;
     border-radius: 28px;
-    background-color: rgba(245, 195, 202, 0.966);
+    background-color: rgb(255, 219, 244, 0.966);
     text-align: center;
-    
+   box-shadow: 0 0 30px rgb(155, 3, 3);
+
+
 }
-video {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 105%;
-    min-height: 100%;
-    transform: translateX(calc((100% - 100vw) / 2));
-    z-index: -2;
-  }
-  
-  
+
 .titulo {
     color: rgb(163, 24, 47);
-    text-shadow: 0 0 30px #570303;
+    text-shadow: 0 0 30px #e75ac9;
   font-family: "Lobster Two", sans-serif;
   font-size: 50px;
-  
+
 }
 
 .h2{
